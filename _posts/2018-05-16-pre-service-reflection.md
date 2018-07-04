@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Pre-Service Reflective Practice"
+---
+Reflecting on your practice as a pre-service teacher seems both impossible and critical, as you approach your teaching practicum.
+
+On the one hand, you have no experience being a teacher in a classroom context to have developed a practice on which to reflect. Sure, you have observed, you have read, you have simulated, and you can reflect on these things, but you are observing established teachers in established classes with established rules and relationships, you're reading cherry-picked examples and reflections of educators and researchers from a context that they can only describe to you, and any simulations are without context or continuity.
+
+Maybe this is me trying to assuage fears of inadequacy when I start teaching by giving reasons why it's not fault if my initial teaching fails. But then I think these things are about knowledge primarily. While there are experiences involved, they can't expect to make you experienced. That's what spending days, weeks, years in a classroom will provide. Rather they give you ideas of how things can be done, warn of pitfalls or unintentional biases, or provide opportunity to practice parts of being a teacher so that you can identify what you have a knack for, and what needs work. But this isn't like being in a classroom or having a full timetable worth of classes to prepare.
+
+On the other hand though, knowing what areas you need to focus on in advance gives you opportunity to adequately prepare yourself in those areas for your teaching. You can have well defined goals for your early teaching career that you can work on. The reality is that there's a fair chance that your first day, week, month of teaching may, or will, be rough. But if you knew that going into it, with a plan of where you wanted to go, and how you might achieve that, then that first year of teaching might just manage to not be completely soul crushing. 
+
+So I guess that's the thing. The readings, observations, and simulations fill your mind with ideas and explanations which, along with the associated reflections, enable you to react to the inevitable challenges of your initial teaching with an idea of what you might be able to try, or where you might be able to look for answers. They only ever had the remotest chance of preventing the challenges from occurring in the first place. By doing the work to reflect on where you think you are, and where you want to go, once the teaching begins, you are enabled to more easily improve your practice after the first day.
