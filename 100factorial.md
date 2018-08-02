@@ -9,6 +9,8 @@ David Butler ([@DavidKButlerUoA](https://twitter.com/DavidKButlerUoA)) of the Ma
 
 Across the years, many of these puzzles have been shared through photos on Twitter using [#10fFactorial](https://twitter.com/search?q=%23100factorial). Here I aim to currate a list of all the puzzles that have been shared, with descriptions and possible solutions, eventually with some degree of organisation, to aid in finding puzzles quicklky in the future.
 
+
+
 # The Puzzles
 ## 4 dots, 2 distances
 [Link](https://twitter.com/DavidKButlerUoA/status/1024493480016412673)
