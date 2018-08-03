@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Pre-Service Reflective Practice"
+comments: false
 ---
 Reflecting on your practice as a pre-service teacher seems both impossible and critical, as you approach your teaching practicum.
 
