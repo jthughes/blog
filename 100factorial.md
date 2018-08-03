@@ -108,6 +108,13 @@ Across the years, many of these puzzles have been shared through photos on Twitt
 
 ## Panda Squares
 
+[Link](https://twitter.com/DavidKButlerUoA/status/788590636651974656)
+[Link](https://twitter.com/DavidKButlerUoA/status/788584353597100032)
+[Link](https://twitter.com/DavidKButlerUoA/status/791108677260288000)
+[Link]()
+[Link]()
+[Link]()
+[Link]()
 [Link]()
 
 ## Five Triangles
@@ -164,6 +171,132 @@ Across the years, many of these puzzles have been shared through photos on Twitt
 
 10 May 2017
 
+## Circles in a triangle
+
+[Link](https://twitter.com/nomad_penguin/status/861921504409272324)
+
+## Numbers! that are the number of zeroes.
+
+[Link](https://twitter.com/DavidKButlerUoA/status/861834720383860736)
+
+## Card walk
+
+[Link](https://twitter.com/DavidKButlerUoA/status/862162488384737281)
+
+## Red, Blue, Mixed
+
+> Three boxes are on the table. One has red balls, one has blue balls, and one has balls of both colours. Three labels are made for the boxes, but they are misplaced so none of the boxes are labelled correctly. How many balls would you need to retrieve from the boxes in order to determine the correct labelling?
+&emdash; AustMS Gazette November 2010:
+
+[Link](https://blogs.adelaide.edu.au/maths-learning/2011/01/12/individual-ahas/)
+
+Solution[^RedBlueMixed]
+
+## Polydivisible number
+
+[Link](https://en.wikipedia.org/wiki/Polydivisible_number)
+
+## 
+> Hexagon with verticies on a circle has three consecutive sides 3 and three consecutive sides 5. What is the area of the circle?
+
+[Link](https://twitter.com/DavidKButlerUoA/status/849486131511128065)
+
+## Sets of 3 numbers with same sum and product
+
+[Link](https://twitter.com/HarMath/status/846788990799794176)
+
+## ???
+
+[Link](https://twitter.com/DavidKButlerUoA/status/836796477376770049)
+
+## Sums of squares
+
+[Link](http://www.squeaktime.com/blog/sums-of-squares-squared)
+
+## 
+
+[Link](https://mhorley.wordpress.com/2017/02/24/algebra/)
+
+## Buckets of fish!
+
+[Link](http://jdh.hamkins.org/buckets-of-fish/)
+
+## 
+
+[Link](https://twitter.com/DavidKButlerUoA/status/829030905985396736)
+
+## Domino Grids
+
+[Link](https://twitter.com/DavidKButlerUoA/status/829029165793882112)
+
+## The Crossword that counts itself
+
+[Link](https://twitter.com/nomad_penguin/status/820570486887174144)
+
+## Akari
+
+[Link](https://twitter.com/nomad_penguin/status/817620108658884609)
+
+## 
+
+[Link](https://twitter.com/CmonMattTHINK/status/799673924149645312)
+
+## Herpetomino
+Defintion:
+> flat shape made of squares joined along edges that "looks like a snake"
+
+[Link](https://twitter.com/DavidKButlerUoA/status/801238289634050048)
+
+## Shaded fraction
+
+[Link](https://twitter.com/DavidKButlerUoA/status/797517127921958912)
+
+## Open Middle problem
+
+[Link](https://twitter.com/DavidKButlerUoA/status/797186971437146112)
+
+## 
+
+[Link](https://twitter.com/DavidKButlerUoA/status/796122484634361856)
+
+## Sprouts
+
+[Link](https://twitter.com/DavidKButlerUoA/status/780984356726796288)
+
+## Fraction Skyscraper
+
+[Link](https://twitter.com/DavidKButlerUoA/status/780983234209390592)
+
+28 September 2016
+
+## 
+
+[Link]()
+
+## 
+
+[Link]()
+## 
+
+[Link]()
+
+## 
+
+[Link]()
+## 
+
+[Link]()
+
+## 
+
+[Link]()
+## 
+
+[Link]()
+
+## 
+
+[Link]()
 ## 
 
 [Link]()
@@ -172,12 +305,25 @@ Across the years, many of these puzzles have been shared through photos on Twitt
 
 [Link]()
 
-## 
+# Solutions
 
-[Link]()
+[^RedBlueMixed]: 
+    Pull a single ball out of the box labelled 'Mixed'. This will tell you all you need to know.
 
-## 
+    If the colour is red, then the box you pulled a ball from must only have red balls (as we know it can't be the mixed box). The box that is labelled 'Blue' cannot contain only blue balls, and so must contain a mixture of both colours. This leaves the box labelled 'Red' to be filled only with blue balls.
 
-[Link]()
+    The same logic applies if the colour drawn from the box labelled 'Mixed' was blue, only the colours red and blue are reversed. 
 
+    The two arrangements are below are the only possiblities, and pulling from the box labelled 'Mixed' tells you which arrangement has occured.
 
+    | Box   | Label |
+    |:-----:|:-----:|
+    | Red   | Mixed |
+    | Blue  | Red   |
+    | Mixed | Blue  |
+
+    | Box   | Label |
+    |:-----:|:-----:|
+    | Red   | Blue  |
+    | Blue  | Mixed |
+    | Mixed | Red   |
