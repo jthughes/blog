@@ -1,8 +1,7 @@
 ---
-layout: thread
+layout: post
 title: "A Vision of Communicating Mathematical Joy"
 permalink: /mfvc/
-comments: true
 ---
 # The Rationale
 Upon seeing mention of the "[Virtual Conference on Mathematical Flavors](https://samjshah.com/)" on Twitter, I thought "that's neat, but that's not really anything I could contribute to". And then I read the call for presenters.
