@@ -6,7 +6,7 @@ permalink: /100factorial/
 # About
 David Butler ([@DavidKButlerUoA](https://twitter.com/DavidKButlerUoA)) of the Maths Learning Centre at the University of Adelaide runs a puzzle and games club called "One Hundred Factorial" (named after the first puzzle the club tackled - read more [here](https://www.adelaide.edu.au/mathslearning/play/)). 
 
-Across the years, many of these puzzles have been shared through photos on Twitter using [#10fFactorial](https://twitter.com/search?q=%23100factorial). Here I aim to currate a list of all the puzzles that have been shared, with descriptions and possible solutions, eventually with some degree of organisation, to aid in finding puzzles quicklky in the future.
+Across the years, many of these puzzles have been shared through photos on Twitter using [#100factorial](https://twitter.com/search?q=%23100factorial). Here I aim to currate a list of all the puzzles that have been shared, with descriptions and possible solutions, eventually with some degree of organisation, to aid in finding puzzles quicklky in the future.
 
 
 
