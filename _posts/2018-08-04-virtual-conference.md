@@ -46,7 +46,7 @@ So there you have it. That is my vision, my goal for how to run my mathematics c
 # Footnotes
 [^blog]: Yet!
 [^maths]: Shush, I'm Australian.
-[^child]: I've always loved numbers and trying to understand mathematical things for the sake of knowing. I was the sort of kid to ask about what the difference between the $$+$$ symbol and the $$\times$$ when I was 5, before starting school, and I was very proud in grade two that I could not only do two digit addition, but also three digit addition, which was what the year threes in the combined two/three class were learning.[^ps]
+[^child]: I've always loved numbers and trying to understand mathematical things for the sake of knowing. I was the sort of kid to ask my mum about the difference between the $$+$$ symbol and the $$\times$$ symbol when I was 5, before starting school, and I was very proud in grade two that I not only could I do two digit addition, but also three digit addition, which was what the year threes in my combined two/three class were learning.[^ps]
 [^ps]: I could probably do it better than them too, because not only could I do three digits, but four or five too! \</humblebrag\>
 [^alliteration]: Here the allure of alliteration was all too much to avoid.
 [^amused]: It has been amusing to me up to this point, but as I write this, I realise that now I would describe it rather as 'admirable' instead.
