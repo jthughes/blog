@@ -4,11 +4,16 @@ title: "#100factorial"
 permalink: /100factorial/
 ---
 # About
+{:.no_toc}
+
 David Butler ([@DavidKButlerUoA](https://twitter.com/DavidKButlerUoA)) of the Maths Learning Centre at the University of Adelaide runs a puzzle and games club called "One Hundred Factorial" (named after the first puzzle the club tackled - read more [here](https://www.adelaide.edu.au/mathslearning/play/)). 
 
 Across the years, many of these puzzles have been shared through photos on Twitter using [#100factorial](https://twitter.com/search?q=%23100factorial). Here I aim to currate a list of all the puzzles that have been shared, with descriptions and possible solutions, eventually with some degree of organisation, to aid in finding puzzles quicklky in the future.
 
-
+# Contents
+{:.no_toc}
+* 
+{:toc}
 
 # The Puzzles
 ## 4 dots, 2 distances
@@ -49,6 +54,12 @@ Use only the five numbers 10, 100, 1000, 10 000, 100 000, with each appearing ex
 [Link](https://twitter.com/DavidKButlerUoA/status/1016938264337440769)
 
 ## Twelve matchsticks
+Twelve matchsticks can be laid on the table to produce a variety of shapes.
+
+Some shapes have the same area and some have a different area. 
+
+**Arrange 12 matchsticks to make a shape with area 4.**
+
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Today we were riffing off this puzzle, which is one of my favourite eight I use to introduce people to <a href="https://twitter.com/hashtag/100factorial?src=hash&amp;ref_src=twsrc%5Etfw">#100factorial</a> <a href="https://t.co/00yjV1o3Qu">pic.twitter.com/00yjV1o3Qu</a></p>&mdash; David Butler (@DavidKButlerUoA) <a href="https://twitter.com/DavidKButlerUoA/status/1016935480791740416?ref_src=twsrc%5Etfw">July 11, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -112,6 +123,8 @@ How many jiggly positive integers are there?
 
 ### Extension
 What about varying number of digits?
+
+Solutions[^Jiggly]
 
 [Link](https://twitter.com/DavidKButlerUoA/status/981398311121891329)
 
@@ -202,12 +215,30 @@ All the numbers that give remainder 1 will go into the number 1 less than the nu
 [Link](https://twitter.com/DavidKButlerUoA/status/910312037753827329)
 
 ## Ten statements
+Below are ten statements concerning X, a whole number between 1 and 10 (inclusive). Not all of the statements are true, but not all of them are false either. What number is X?
+1. X equals the sum of the statement numbers of the false statements in this list.
+2. X is less than the number of flase statements in this list, or statement 1 is false, but not both.
+3. There are exactly three true statements in this list, or statement 1 is false, but not both.
+4. The previous three statements are all false, or statement 9 is true, or both.
+5. Either X is odd, or statement 7 is true, but not both.
+6. Exactly two of the odd-numbered statements are false.
+7. X is the number of a true statement.
+8. The even-numbered statements are either all true or all false.
+9. X equals three times the statement number of the first true statement in this list, or statement 4 is false, or both.
+10. X is even, or statement 6 is true, or both.
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I found this one in my puzzle folder dated the year 2000. Not sure where it came from. They started it at <a href="https://twitter.com/hashtag/100factorial?src=hash&amp;ref_src=twsrc%5Etfw">#100factorial</a> today. <a href="https://t.co/a8g5mqp7K7">pic.twitter.com/a8g5mqp7K7</a></p>&mdash; David Butler (@DavidKButlerUoA) <a href="https://twitter.com/DavidKButlerUoA/status/905314421387411456?ref_src=twsrc%5Etfw">September 6, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Link](https://twitter.com/DavidKButlerUoA/status/905314421387411456)
 
 ## Seven Sticks
+I have seven sticks, all different lengths, all a whole number of centimetres long. I can tell the longest one is less than 30 cm long, because it's shorter than a piece of paper, but other than that I have no way of measuring them.
+
+Whenever I pick three sticks from the pile, I find that I can't ever make a triangle with them.
+
+**How long is the shortest stick?**
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I showed this at Maths 1A lecture to advertise <a href="https://twitter.com/hashtag/100factorial?src=hash&amp;ref_src=twsrc%5Etfw">#100factorial</a>. Had a S come in today who was totally nerdsniped. Mission accomplished! <a href="https://t.co/iI04BT4Ubc">pic.twitter.com/iI04BT4Ubc</a></p>&mdash; David Butler (@DavidKButlerUoA) <a href="https://twitter.com/DavidKButlerUoA/status/894816167478517761?ref_src=twsrc%5Etfw">August 8, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -243,8 +274,9 @@ What numbers can be the number of zeros on the end of a factorial?
 
 ## Red, Blue, Mixed
 
-> Three boxes are on the table. One has red balls, one has blue balls, and one has balls of both colours. Three labels are made for the boxes, but they are misplaced so none of the boxes are labelled correctly. How many balls would you need to retrieve from the boxes in order to determine the correct labelling?
-&emdash; AustMS Gazette November 2010:
+Three boxes are on the table. One has red balls, one has blue balls, and one has balls of both colours. Three labels are made for the boxes, but they are misplaced so none of the boxes are labelled correctly. How many balls would you need to retrieve from the boxes in order to determine the correct labelling?
+
+*-- AustMS Gazette November 2010*
 
 [Link](https://blogs.adelaide.edu.au/maths-learning/2011/01/12/individual-ahas/)
 
@@ -255,7 +287,7 @@ Solution[^RedBlueMixed]
 [Link](https://en.wikipedia.org/wiki/Polydivisible_number)
 
 ## 
-> Hexagon with verticies on a circle has three consecutive sides 3 and three consecutive sides 5. What is the area of the circle?
+Hexagon with verticies on a circle has three consecutive sides 3 and three consecutive sides 5. What is the area of the circle?
 
 [Link](https://twitter.com/DavidKButlerUoA/status/849486131511128065)
 
@@ -330,28 +362,27 @@ Defintion:
 [Link](https://twitter.com/DavidKButlerUoA/status/780983234209390592)
 
 ## Three Consecutive Integers
+Three consecutive integers are multiplied together, and the middle number is added to the total.
 
-> Three consecutive integers are multiplied together, and the middle number is added to the total.
-> 
-> E.g. $$(4 \times 5 \times 6)+5=125=5^3$$
-> 
-> Prove that this is always true, with any set of three consecutive integers.
+E.g. $$(4 \times 5 \times 6)+5=125=5^3$$
+
+Prove that this is always true, with any set of three consecutive integers.
 
 [Link](https://twitter.com/DavidKButlerUoA/status/779209794540277763)
 
 ## 
 
-> Suppose
-> 
-> $$f(3) = \sqrt(3)$$
->
-> $$f(-a) = -f(a)$$
->
-> $$f(a+b) = (f(a)+f(b))/(1-f(a)f(b))$$
->
-> Evaluate
->
-> $$ f(1)f(2)f(3)f(4) $$
+Suppose
+
+$$f(3) = \sqrt(3)$$
+
+$$f(-a) = -f(a)$$
+
+$$f(a+b) = (f(a)+f(b))/(1-f(a)f(b))$$
+
+Evaluate
+
+$$ f(1)f(2)f(3)f(4) $$
 
 [Link](https://twitter.com/DavidKButlerUoA/status/779058552962895872)
 
@@ -416,7 +447,20 @@ Is $$ n^5 + 5^n $$ ever prime?
 
 [Link](https://twitter.com/DavidKButlerUoA/status/740627611697610752)
 
-## 
+## Unequal Stacks
+Start with two unequal stacks of counters.
+
+Move counters off the larger stack to double the size of the smaller stack.
+
+Carry on this way.
+
+What happens?
+
+A stack of 7 and a stack of 2 are one way to start with 9 counters. \\
+Choose other ways. \\
+What happens? \\
+
+What happens if you start with a different number of counters?
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I think we might have a look at this at <a href="https://twitter.com/hashtag/100factorial?src=hash&amp;ref_src=twsrc%5Etfw">#100factorial</a> during the mid-year break. <a href="https://t.co/rBjvks3qi6">https://t.co/rBjvks3qi6</a></p>&mdash; David Butler (@DavidKButlerUoA) <a href="https://twitter.com/DavidKButlerUoA/status/739925721598959616?ref_src=twsrc%5Etfw">June 6, 2016</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -550,3 +594,14 @@ Is $$ n^5 + 5^n $$ ever prime?
     | Red   | Blue  |
     | Blue  | Mixed |
     | Mixed | Red   |
+
+[^Jiggly]:
+    - Cannot be 0.
+    - 12 is even, so every arrangement of the 4 digits must result in an even number, so all 4 digits must be even numbers.
+        * Options: 2, 4, 6, 8
+    - Must be a multiple of 3
+    - Must be a multiple of 4
+    - 100 is divisible by 4, so to check divisibilty by 4, only need to check last 2 digits
+
+    Answer: 6 (4488, 4848, 4884, 8448, 8484, 8844)
+        
