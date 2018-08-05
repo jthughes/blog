@@ -17,6 +17,8 @@ I've not taught in a school from the start of the year, and I still feel like I'
 
 So what then is my vision for transforming how my students see mathematics?
 
+![Play + Creativity = Joy]({{ site.img}}/joy.jpg){:width="100%";}
+
 # The Vision
 Maths[^maths] , I feel, is thought of as a dry, dull subject, filled with numbers and formula, with no room for any creative thought. After all, you just learn things that some guy came up with a few thousand years ago, right? I know I've sat through my share of classes like that, not that I usually minded[^child]. But that is not at all a maths classroom must look like. Creativity and play most certainly can be found in a maths classroom, and really, not just can be found but should be found in the maths classroom. And there's more than one way that can be done.
 
@@ -32,6 +34,8 @@ This sort of play I continued through university once I stumbled across this:[^t
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I love the Sierpinski Sieve too. I also love love love the Sierpinski Sponge (as I call it) <a href="https://t.co/PmU8rhRehv">pic.twitter.com/PmU8rhRehv</a></p>&mdash; David Butler (@DavidKButlerUoA) <a href="https://twitter.com/DavidKButlerUoA/status/793094502609145856?ref_src=twsrc%5Etfw">October 31, 2016</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 While I had seen [@DavidKButlerUoA](https://twitter.com/DavidKButlerUoA) around the university previously, and maybe even had heard something about One Hundred Factorial[^start], walking through the university and seeing the construction of the Stage 7 [Sierpinski Sponge](https://www.adelaide.edu.au/mathslearning/play/sierpinski-sponge/) would have been my first proper introduction to David and his love of cool[^cool] maths stuff. I ended up skipping a physics lecture to help[^head] finish assembling the sponge, just because it was one of the coolest things I'd come across - after all, when was I going to get to help build something like that again?[^mindfilling] But more on this later - there is a point to be made about this, but it's not the one I want to make right now. Right now, I want to talk about One Hundred Factorial.
+
+![One Hundred Factorial]({{ site.img }}100factorial.jpg)
 
 One Hundred Factorial is a puzzle and games club run by David. The time and format have varied somewhat over the years, but at its core, it is about talking and exploring mathematical ideas with anyone and everyone. The regulars are made up of a spread of first year undergrad students to those with PhDs in mathematics and working at the uni, but anyone is invited to join in, whether or not they claim they are a maths person. And the puzzles themselves? Anyone is able to offer suggestions, or say "Hey, I don't understand what you did there, can you explain it again?" And probably the best part is that the [goal is not the goal](https://twitter.com/DavidKButlerUoA/status/1020425966194061312). More often than not, a question is posed and then explored, but then someone will say "but what if changed/expanded the question like so?" and the exploration continues long outside the scope of the initial question or puzzle. 
 
