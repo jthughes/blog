@@ -5,6 +5,11 @@ permalink: /mfvc/
 excerpt: "As a Pre-Service Teacher, I have little opportunity to work with students for a long enough time to leave a lasting positive impact on their view on mathematics. However, I have a vision of what that impact could look like, and how I might work to achieve it."
 image: joy.jpg
 ---
+# Contents
+{:.no_toc}
+1. Table of Contents
+{:toc}
+
 # The Rationale
 Upon seeing mention of "[The Virtual Conference of Mathematical Flavors](https://samjshah.com/mathematical-flavors-convention-center/)" on Twitter, I thought "that's neat, but that's not really anything I could contribute to". And then I read the call for presenters.
 
