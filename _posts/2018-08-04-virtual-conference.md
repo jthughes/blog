@@ -3,6 +3,7 @@ layout: post
 title: "A Vision of Joy from Mathematical Play and Creativity "
 permalink: /mfvc/
 excerpt: "As a Pre-Service Teacher, I have little opportunity to work with students for a long enough time to leave a lasting positive impact on their view on mathematics. However, I have a vision of what that impact could look like, and how I might work to achieve it."
+image: "{{ site.img }}/joy.jpg"
 ---
 # The Rationale
 Upon seeing mention of "[The Virtual Conference of Mathematical Flavors](https://samjshah.com/mathematical-flavors-convention-center/)" on Twitter, I thought "that's neat, but that's not really anything I could contribute to". And then I read the call for presenters.
@@ -17,7 +18,7 @@ I've not taught in a school from the start of the year, and I still feel like I'
 
 So what then is my vision for transforming how my students see mathematics?
 
-![Play + Creativity = Joy]({{ site.img}}/joy.jpg){:width="100%";}
+![Play + Creativity = Joy]({{ site.img }}/joy.jpg)
 
 # The Vision
 Maths[^maths] , I feel, is thought of as a dry, dull subject, filled with numbers and formula, with no room for any creative thought. After all, you just learn things that some guy came up with a few thousand years ago, right? I know I've sat through my share of classes like that, not that I usually minded[^child]. But that is not at all a maths classroom must look like. Creativity and play most certainly can be found in a maths classroom, and really, not just can be found but should be found in the maths classroom. And there's more than one way that can be done.
