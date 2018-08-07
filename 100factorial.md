@@ -167,15 +167,6 @@ A selection of some of the more satisfying puzzles drawn from Henry Ernest Duden
 
 [Link](https://twitter.com/DavidKButlerUoA/status/862162488384737281)
 
-### Lousy Labelling
-
-Three boxes are on the table. One has red balls, one has blue balls, and one has balls of both colours. Three labels are made for the boxes, but they are misplaced so none of the boxes are labelled correctly. How many balls would you need to retrieve from the boxes in order to determine the correct labelling?
-
-*-- AustMS Gazette November 2010*
-
-[Link](https://blogs.adelaide.edu.au/maths-learning/2011/01/12/individual-ahas/)
-
-Solution[^RedBlueMixed]
 
 ### Polydivisible number
 
