@@ -53,14 +53,26 @@ A selection of some of the more satisfying puzzles drawn from Henry Ernest Duden
 {% endfor %}
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Unsorted
 ## Big Puzzles
-### AtoZ
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">These look like fun to do at <a href="https://twitter.com/hashtag/100factorial?src=hash&amp;ref_src=twsrc%5Etfw">#100factorial</a> this week. <a href="https://t.co/QQZlH3HRsD">https://t.co/QQZlH3HRsD</a></p>&mdash; David Butler (@DavidKButlerUoA) <a href="https://twitter.com/DavidKButlerUoA/status/1021473464190812160?ref_src=twsrc%5Etfw">July 23, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[Link](https://twitter.com/DavidKButlerUoA/status/1021473464190812160)
-
 ### Shikaku
 
 [Link](https://twitter.com/nomad_penguin/status/1011178869208969216)
@@ -111,9 +123,31 @@ A selection of some of the more satisfying puzzles drawn from Henry Ernest Duden
 
 
 
-### The i's Have It
 
-[Link](https://blogs.adelaide.edu.au/maths-learning/2016/05/31/four-alternatives-to-the-four-fours/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Which Number Where
 
@@ -149,13 +183,8 @@ A selection of some of the more satisfying puzzles drawn from Henry Ernest Duden
 
 
 
-### Forty from Four Ones, Three Threes, and Some Operations
 
-[Link](https://twitter.com/DavidKButlerUoA/status/859554226606710784)
 
-### Points on a triangular grid
-
-[Link](https://twitter.com/DavidKButlerUoA/status/859554226606710784)
 
 
 ### Circles in a triangle
@@ -172,10 +201,6 @@ A selection of some of the more satisfying puzzles drawn from Henry Ernest Duden
 
 [Link](https://en.wikipedia.org/wiki/Polydivisible_number)
 
-### 
-Hexagon with verticies on a circle has three consecutive sides 3 and three consecutive sides 5. What is the area of the circle?
-
-[Link](https://twitter.com/DavidKButlerUoA/status/849486131511128065)
 
 
 
