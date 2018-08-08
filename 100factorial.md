@@ -7,6 +7,7 @@ types:
 - visual
 - geometry
 - dudeney
+- game
 ---
 # About
 {:.no_toc}
@@ -281,30 +282,6 @@ A selection of some of the more satisfying puzzles drawn from Henry Ernest Duden
 
 [Link](https://twitter.com/DavidKButlerUoA/status/768080817104957440)
 
-### 
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">1st <a href="https://twitter.com/hashtag/100factorial?src=hash&amp;ref_src=twsrc%5Etfw">#100factorial</a> session of the semester 12-2pm Lvl 4 Hub Central, at <a href="https://twitter.com/UniofAdelaide?ref_src=twsrc%5Etfw">@UniofAdelaide</a>. I think we&#39;ll start with this <a href="https://t.co/CxHfeeKwtI">pic.twitter.com/CxHfeeKwtI</a></p>&mdash; David Butler (@DavidKButlerUoA) <a href="https://twitter.com/DavidKButlerUoA/status/757823381999722496?ref_src=twsrc%5Etfw">July 26, 2016</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[Link](https://twitter.com/DavidKButlerUoA/status/757823381999722496)
-
-### 
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Looks like fun for <a href="https://twitter.com/hashtag/100factorial?src=hash&amp;ref_src=twsrc%5Etfw">#100factorial</a> <a href="https://t.co/Xl2kynJEKb">https://t.co/Xl2kynJEKb</a></p>&mdash; David Butler (@DavidKButlerUoA) <a href="https://twitter.com/DavidKButlerUoA/status/754044484720074753?ref_src=twsrc%5Etfw">July 15, 2016</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-[Link](https://twitter.com/DavidKButlerUoA/status/754044484720074753)
-
-
-
-### 
-
-[Link](https://twitter.com/DavidKButlerUoA/status/752973883389595648)
-
-### 
-
-[Link](https://twitter.com/DavidKButlerUoA/status/751545169053257729)
 
 
 
