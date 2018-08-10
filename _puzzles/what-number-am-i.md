@@ -4,7 +4,7 @@ category: number
 tweet: https://twitter.com/DavidKButlerUoA/status/1023286328429924352
 date: 1999-01-01
 source: 
-image: 
+file: 
 solutions: 
 ---
 $$p(x)$$ is a polynomial I’m thinking of that has all non-negative coefficients.

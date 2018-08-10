@@ -4,7 +4,7 @@ category: number
 tweet: https://twitter.com/DavidKButlerUoA/status/739925721598959616
 date: 2016-06-07
 source: https://twitter.com/LearningMaths/status/739916191758704645
-image: unequal-stacks.jpg
+file: unequal-stacks.jpg
 solutions: 
 ---
 Start with two unequal stacks of counters.

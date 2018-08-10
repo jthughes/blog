@@ -4,6 +4,34 @@ category:
 tweet: 
 date: 1999-01-01
 source: 
-image: 
+file: 
 solutions: 
 ---
+
+<ul class="share-buttons">
+  <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fwww.jeremyinstem.com%2F&text=%23100factorial:%20https%3A%2F%2Fwww.jeremyinstem.com%2F&via=JeremyInSTEM" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img alt="Tweet" src="images/social_flat_rounded_rects_svg/Twitter.svg" /></a></li>
+</ul>
+
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+}
+
+ul.share-buttons .sr-only{
+  position: absolute;
+  clip: rect(1px 1px 1px 1px);
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0;
+  border: 0;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+
+ul.share-buttons img{
+  width: 32px;
+}

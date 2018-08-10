@@ -4,7 +4,7 @@ category: geometry
 tweet: https://twitter.com/DavidKButlerUoA/status/915402782416412672
 date: 2017-10-04
 source: https://twitter.com/ethan_midpen/status/913069830483275776
-image: 
+file: 
 solutions: 
 ---
 Take a rectangle with dimensions 1 x 3.

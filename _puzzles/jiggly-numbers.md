@@ -10,4 +10,5 @@ A positive integer is said to be *jiggly* if it has four digits, all non-zero, a
 How many jiggly positive integers are there?
 
 **Extension**
+
 What about varying number of digits?

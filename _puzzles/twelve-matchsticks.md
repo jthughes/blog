@@ -4,7 +4,7 @@ category: visual
 tweet: https://twitter.com/DavidKButlerUoA/status/1016935480791740416
 source: https://www.adelaide.edu.au/mathslearning/play/puzzles-like-one-hundred-factorial.pdf
 date: 2018-07-11
-image: 
+file: 
 solutions: false
 ---
 Twelve matchsticks can be laid on the table to produce a variety of shapes. For example:

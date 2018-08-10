@@ -4,7 +4,7 @@ category: geometry
 tweet: https://twitter.com/DavidKButlerUoA/status/752973883389595648
 date: 2016-06-13
 source: https://www.geogebra.org/m/eT62dm2w
-image: 
+file: 
 solutions: 
 ---
 In a rectangle, the midpoint of two opposite sides are marked, and the corners of the rectangle are folded to meet the midpoint of the opposite side. This draws four lines, which mark out a rhombus in the centre.

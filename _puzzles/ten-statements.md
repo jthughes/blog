@@ -4,7 +4,7 @@ category: number
 tweet: https://twitter.com/DavidKButlerUoA/status/905314421387411456
 date: 2017-09-06
 source: 
-image: 
+file: 
 solutions: 
 ---
 Below are ten statements concerning X, a whole number between 1 and 10 (inclusive). Not all of the statements are true, but not all of them are false either. What number is X?

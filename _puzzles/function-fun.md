@@ -4,7 +4,7 @@ category: number
 tweet: https://twitter.com/DavidKButlerUoA/status/779058552962895872
 date: 2016-09-23
 source: https://twitter.com/johnjoy1966/status/778950483197173760
-image: 
+file: 
 solutions: 
 ---
 Suppose

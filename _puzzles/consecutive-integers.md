@@ -4,7 +4,7 @@ category: number
 tweet: https://twitter.com/DavidKButlerUoA/status/779209794540277763
 date: 2018-09-30
 source: https://twitter.com/solvemymaths/status/779197372253499392
-image: 
+file: 
 solutions: 
 ---
 Three consecutive integers are multiplied together, and the middle number is added to the total.

@@ -4,7 +4,7 @@ category: geometry
 tweet: https://twitter.com/DavidKButlerUoA/status/757823381999722496
 date: 2016-06-26
 source: 
-image: angles-on-a-grid.jpg
+file: angles-on-a-grid.jpg
 solutions: 
 ---
 $$ x+y+z=? $$

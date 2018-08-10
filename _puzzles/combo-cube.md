@@ -4,7 +4,7 @@ category: visual
 tweet: 
 date: 1999-01-01
 source: https://www.adelaide.edu.au/mathslearning/play/puzzles-like-one-hundred-factorial.pdf
-image: 
+file: 
 solutions: 
 ---
 Eight cubes are marked with one dot on two opposite faces, two dots on two opposite faces and three dots on two opposite faces.

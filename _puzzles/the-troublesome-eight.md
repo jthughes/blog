@@ -4,7 +4,7 @@ category: dudeney
 tweet: https://twitter.com/DavidKButlerUoA/status/978826036702978054
 date: 1999-01-01
 source: http://www.gutenberg.org/files/16713/16713-h/16713-h.htm#X_399_THE_TROUBLESOME_EIGHT
-image: 
+file: 
 solutions: 
 ---
 **Amusements in Mathematics #399**

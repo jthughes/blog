@@ -4,7 +4,7 @@ category: dudeney
 tweet: https://twitter.com/DavidKButlerUoA/status/923040561866539010
 date: 1999-01-01
 source: http://www.gutenberg.org/files/16713/16713-h/16713-h.htm#X_270_THE_GLASS_BALLS
-image: 
+file: 
 solutions: 
 ---
 **Amusements in Mathematics #270**
