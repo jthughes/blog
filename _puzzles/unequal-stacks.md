@@ -17,6 +17,6 @@ What happens?
 
 A stack of 7 and a stack of 2 are one way to start with 9 counters. \\
 Choose other ways. \\
-What happens? \\
+What happens?
 
 What happens if you start with a different number of counters?
