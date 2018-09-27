@@ -8,6 +8,7 @@ types:
 - geometry
 - dudeney
 - game
+- other
 ---
 # About
 {:.no_toc}
@@ -22,6 +23,9 @@ Other sources of puzzles:
 - [Canadian Math Kangaroo Contest](https://kangaroo.math.ca)
 - [Brilliant.org](https://brilliant.org/)
 - [Open Middle](http://www.openmiddle.com/)
+- [Play With Your Math](https://playwithyourmath.com/)
+- [Puzzle of the Week](http://www.puzzleoftheweek.com/)
+- [trol = Teacher Resources on Line](http://www.cleavebooks.co.uk/trol/indexgam.htm)
 - [@Five_Triangles](https://twitter.com/Five_Triangles)
 - [@jamestanton](https://twitter.com/jamestanton)
 
