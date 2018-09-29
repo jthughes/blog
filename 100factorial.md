@@ -28,6 +28,7 @@ Other sources of puzzles:
 - [trol = Teacher Resources on Line](http://www.cleavebooks.co.uk/trol/indexgam.htm)
 - [@Five_Triangles](https://twitter.com/Five_Triangles)
 - [@jamestanton](https://twitter.com/jamestanton)
+- [@Teejay_Maths](https://twitter.com/Teejay_Maths) - [#FridayPuzzle](https://twitter.com/search?l=&q=%23FridayPuzzle%20from%3ATeejay_Maths)
 
 # Contents
 {:.no_toc}
