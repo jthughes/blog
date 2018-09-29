@@ -26,6 +26,7 @@ Other sources of puzzles:
 - [Play With Your Math](https://playwithyourmath.com/)
 - [Puzzle of the Week](http://www.puzzleoftheweek.com/)
 - [trol = Teacher Resources on Line](http://www.cleavebooks.co.uk/trol/indexgam.htm)
+- [Parentheses, Brackets and Braces](https://pbbmath.weebly.com/blog/category/puzzle)
 - [@Five_Triangles](https://twitter.com/Five_Triangles)
 - [@jamestanton](https://twitter.com/jamestanton)
 - [@Teejay_Maths](https://twitter.com/Teejay_Maths) - [#FridayPuzzle](https://twitter.com/search?l=&q=%23FridayPuzzle%20from%3ATeejay_Maths)
