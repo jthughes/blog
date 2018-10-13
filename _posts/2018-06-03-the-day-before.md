@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The day before..."
 excerpt: "A thought as I start placements."
 comments: false

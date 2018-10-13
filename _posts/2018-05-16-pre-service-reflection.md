@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Pre-Service Reflective Practice"
 excerpt: "A thought about thinking."
 comments: false

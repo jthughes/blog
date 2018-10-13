@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Vision of Joy from Mathematical Play and Creativity "
 permalink: /mfvc/
 excerpt: "As a Pre-Service Teacher, I have little opportunity to work with students for a long enough time to leave a lasting positive impact on their view on mathematics. However, I have a vision of what that impact could look like, and how I might work to achieve it."

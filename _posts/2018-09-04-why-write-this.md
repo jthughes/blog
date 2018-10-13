@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "231 Tweets in 194 Days"
 excerpt: "Why Write This? Why Twitter? Why a Blog? Here I share my journey from before my first tweet to this blog post, and the bits along the way."
 ---

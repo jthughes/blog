@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "#100factorial"
 permalink: /100factorial/
 types:
